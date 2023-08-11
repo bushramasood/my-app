@@ -1,0 +1,72 @@
+body{
+    background: white; 
+}
+.navbar {
+    position: fixed;
+    background-color: #f0f0f0;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 4px solid lightgrey;
+    z-index: 1000;
+  }
+  .component-below-nav
+  {
+    margin-top: 180px;
+  }
+label
+{
+  font-size: large;
+}
+form{
+    background-color: lightslategray;
+    border: 4px solid grey;
+    border-radius: 5px;
+    width: 550px;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-group{
+    text-align: left;
+}
+
+.form-control
+{
+    width: 100%;
+}
+.nav-link
+{
+    font-size:larger;
+    font-weight:500;
+}
+.nav-link:hover {
+    background-color: #f0f0f0;
+}
+.card
+{
+    background-color:#f0f0f0;
+    width:12rem;
+    margin-top:40px;
+    margin-left: 10px;
+    margin-bottom:10px;
+}
+.btn 
+{
+    align-items: center;
+}
+
+.validation{
+    color:red;
+}
+
+.cart-dropdown-container
+{
+    width:350px;
+    height:450px;
+}
+
+
+  
+
+  
